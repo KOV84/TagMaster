@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagMaster", "TagMaster\TagMaster.csproj", "{0968997B-EAF6-4D7B-9589-78B53BE058DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0968997B-EAF6-4D7B-9589-78B53BE058DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0968997B-EAF6-4D7B-9589-78B53BE058DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0968997B-EAF6-4D7B-9589-78B53BE058DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0968997B-EAF6-4D7B-9589-78B53BE058DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B73D6FAB-3AD1-4D41-B93E-B0CB19C0E139}
+	EndGlobalSection
+EndGlobal
